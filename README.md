@@ -1,2 +1,1 @@
-# blog
-个人博客，专注于Go语言、容器化、软件架构、项目管理、技术管理等
+# [个人博客](https://github.com/lijinglin2019/blog/issues)
